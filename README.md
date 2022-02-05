@@ -1,4 +1,4 @@
-## H2 PolyHaven
+## PolyHaven
 
 PolyHaven is an opensource 3d asset library. They basically provide a multitude of free textures and assets for 3d development.
 
